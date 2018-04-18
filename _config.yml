@@ -63,9 +63,8 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-##theme: spfk
-##theme: black-blue
-theme: jekyll
+theme: black-blue
+##theme: jekyll
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
