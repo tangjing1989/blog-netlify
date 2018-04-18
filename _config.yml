@@ -65,7 +65,7 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 ##theme: spfk
 ##theme: black-blue
-theme: landscape
+theme: jekyll
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
