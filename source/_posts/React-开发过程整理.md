@@ -37,7 +37,7 @@ class Parent extends Component {
     render() { return (<Son callbackParent={this.callbackParent} /> } //通过组件绑定回调方法
 }
 ```
-###### 子组件调用父组件的方法
+###### 父组件调用子组件的方法
 ``` javaScript
 class parent extends Component {
     constructor(props) { super(props) }
