@@ -5,4 +5,4 @@ tags:
 ---
 spring bean 生命周期 xmind 图
 <!-- more -->
-![upload successful](/images/spring-lifecycle.png)
+![upload successful](/images/pasted-1.png)
