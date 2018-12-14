@@ -1,4 +1,4 @@
-title: JAVA知识图谱- jvm
+title: JAVA知识图谱- JVM
 author: TangJing
 tags:
   - xmind
