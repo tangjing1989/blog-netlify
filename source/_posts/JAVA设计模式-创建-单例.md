@@ -10,6 +10,10 @@ tags:
  * @date 2019-03-04 11:07
  * singleton mode (4 ways to do it)
  */
+````
+<!-- more -->
+
+````
 public class Singleton {
 
     /** 懒汉模式 */
